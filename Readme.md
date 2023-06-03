@@ -7,8 +7,9 @@ For example, you can use the Text Editor app to fix grammar, and spelling mistak
 Using the image creator app, you can generate your desired image(s) using the prompt box. Also, you can customize the sizes and number of images.
 
 # Demo
+https://github.com/sajanv88/fullstack-open-ai-app/assets/40479827/c39a620d-8d9c-425f-8e15-d59b26234707
 
-[![Demo](/demo/demo.mp4)
+
 
 ## Folders
 
